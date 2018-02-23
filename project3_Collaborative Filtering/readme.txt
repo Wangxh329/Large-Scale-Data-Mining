@@ -1,8 +1,8 @@
 ============================ EE219 Project 3 ==============================
-804506544 Jui Chang 
-904947071 Wenyang Zhu 
-405033965 Xiaohan Wang 
-505036001 Yang Tang 
+Jui Chang 
+Wenyang Zhu 
+Xiaohan Wang 
+Yang Tang 
 
 ======================= Environment & Dependencies ========================
 Imported libraries:
